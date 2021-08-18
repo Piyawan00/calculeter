@@ -30,6 +30,8 @@ def main():
              num1=float(input("Enter you first number: "))
              num2=float(input("Enter you second number: "))
              print("The result is",four.devide(num1,num2)) 
+        elif chioce==Quit:
+            print("Exite program.")
         else:
             print("Eror")
 
