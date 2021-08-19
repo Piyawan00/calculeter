@@ -44,3 +44,4 @@ def display_manu():
     print('3)Multiply')
     print('4)Devide')   
     print('-'*10)
+main()
