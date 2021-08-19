@@ -42,6 +42,7 @@ def display_manu():
     print('1)Add')
     print('2)Substract   ')
     print('3)Multiply')
-    print('4)Devide')   
+    print('4)Devide')
+    print('5)Quit')
     print('-'*10)
 main()
